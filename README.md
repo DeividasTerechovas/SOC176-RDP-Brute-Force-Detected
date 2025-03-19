@@ -48,6 +48,12 @@ Confirmation Image:
 
 
 
+
+### On our first attempt, we identified some mistakes in our response, so we decided to re-investigate. 
+### The inaccuracies were due to my oversight from rushing, but the issues were corrected and documented to prevent recurrence in future alerts.
+
+<img src="https://i.imgur.com/02lSiDh.png" width="800"> 
+
 Conclusion
 ### What We Did:
 
