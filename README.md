@@ -32,6 +32,9 @@ We checked the IP on VirusTotal, and it was flagged as suspicious. See the image
 * Is there a request from the Attacker IP address to the target server's SSH or RDP port?
 
   * Yes, we confirmed that the Attacker IP attempted to access port 3389 (RDP).
+
+<img src="https://i.imgur.com/uYvEHjh.png" width="500"> 
+    
 * Does the Attacker IP address try to establish an SSH/RDP connection with multiple servers/clients as the target?
 
   * No, the attacker was only attempting to access Host: Matthew.
@@ -41,6 +44,7 @@ After verifying all information, we confirmed this was a successful brute force 
 
 Confirmation Image:
 
+<img src="https://i.imgur.com/nEyPtUo.png" width="800" >
 
 
 
